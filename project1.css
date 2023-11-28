@@ -1,0 +1,230 @@
+body{
+    margin: 0px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;;
+}
+#topdiv{
+    /* border: 1px solid black; */
+    text-align: center;
+    background-color:#F7F7F7;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+ 
+}
+#sticky{
+    background-color: white;
+    /* border: 1px solid black; */
+    position: sticky;
+    top: 0px;
+    width: 100%;
+}
+#div1{
+  
+   display: flex;
+   border: 1px solid #EBEBEB;
+}
+#div2{
+    /* border: 1px solid black; */
+    height: 100px;
+    
+}
+#a1{
+    color: #ff385c;
+    text-decoration: none;
+    display: flex;
+    
+
+}
+#h2{
+    margin-left: 7px;
+    margin-top: 30px;
+}
+#i1{
+    font-size: xx-large;
+    display: flex;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+#p1{
+    width: 350px;
+    border: 1px solid black;
+    border-radius:100px ;
+    line-height: 50px;
+    height: 50px;
+    margin-left: 380px;
+    word-spacing: 5px;
+    border-color: #DDDDDD;
+    
+}
+#b1{
+    height: 42px;
+    background: none;
+    border: hidden;
+    font-size:medium;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+#b2{
+    height: 42px;
+    background: none;
+    border: hidden;
+    font-size: larger;
+    margin-left: 15px;
+    
+    font-size:medium;
+    margin-top: 20px;
+}
+#b3{
+    height: 42px;
+    background: none;
+    border: 1px solid black;
+    font-size: larger;
+    width: 80px;
+    border-radius: 100px;
+    margin-top: 20px;
+    line-height: 42px;
+    margin-left: 20px;
+    font-size:medium;
+    word-spacing: 10px;
+    border-color: #DDDDDD;
+}
+#i3{
+    border: 1px solid black;
+    height: 30px;
+    line-height: 30px;
+    width: 30px;
+    border-radius: 100px;
+    margin-left: 20px;
+    background-color: #ff385c;
+    color: white;
+}
+
+#div2{
+    display: flex;
+    
+}
+#i{
+    font-size: larger;
+    margin-top: 20px;
+}
+#p2{
+    margin-top: 25px;
+    margin-left: 50px;
+    font-size: small;
+    line-height: 30px;
+}
+#p3{
+    margin-top: 25px;
+    margin-left: 42px;
+    font-size: small;
+    line-height: 30px;
+}
+#np1{
+    line-height: 7px;
+    margin-top: 0px;
+    
+}
+#b4{
+    border: 1px solid black;
+    background: none;
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+    margin-top: 35px;
+    margin-left: 40px;
+}
+a{
+    text-decoration: none;
+    color: #3C3C3C;
+}
+#p4{
+   
+    border: 1px solid black;
+    width: 100px;
+    margin-left: 30px;
+    height: 40px;
+    border-color: #DDDDDD;
+    margin-top: 30px;
+    border-radius: 10px;
+    position: relative;
+}
+#i4{
+    margin-top: 13px;
+    margin-right: 60px;
+}
+#h5{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;;
+    position: relative;
+    right: 60px;
+    top: 22px;
+}
+#p5,#p6,#p7,#p8{
+    text-align: left;
+    
+}
+#p5,#p6,#p7{
+    line-height: 8px;
+}
+#maindiv2{
+    display: flex;
+    justify-content: space-evenly;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+    row-gap: 30px;
+    /* margin-top: 20px; */
+    background-color: white;
+}
+#maindiv3{
+     display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+}
+
+
+img{
+    border-radius: 10px;
+}
+footer{
+    border: 1px solid #EBEBEB;
+    display: flex;
+    position: fixed;
+    bottom: 0px;
+    background-color: white;
+    height: 40px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;;
+    width: 100%;
+}
+li{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#f1{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#f2{
+ font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;;
+ margin-top: 10px;
+ margin-left: 290px;
+}
+#f3{
+ margin-top: 10px;
+ margin-left: 20px;
+}
+#showmap{
+    text-align: center;
+    height: 50px;
+     border: 1px solid black;
+    width: 120px;
+    position: fixed;
+    top: 80%;
+    background-color: #222222;
+    border-radius: 40px;
+    margin-left: 610px;
+   
+}
+#sp1{
+   
+    
+    color: white;
+
+}
